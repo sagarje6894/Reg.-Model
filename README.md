@@ -1,1 +1,1 @@
-# Reg.-Model
+# Reg.Model
